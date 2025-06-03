@@ -41,12 +41,13 @@ java -cp bin game.Main
 4. Enjoy!
 
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork the project, make enhancements, and create pull requests!
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
-✨ Author
+## ✨ Author
 Moatez Tilouche
-GitHub Profile
+
+
