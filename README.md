@@ -9,14 +9,6 @@ A simple implementation of the classic **Snake Game** using **Java**!
 - Basic graphical interface using Java's built-in libraries
 - Modular and clean codebase
 
-## 📁 Project Structure
-├── .settings/ # IDE-specific settings
-├── bin/ # Compiled Java classes
-├── pics/ # Images and resources
-├── src/game/ # Source code for the game logic and GUI
-├── .classpath # Eclipse/IDE project file
-├── .project # Eclipse/IDE project file
-└── README.md # Project documentation
 
 
 ## ⚙️ Requirements
